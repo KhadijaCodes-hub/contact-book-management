@@ -76,6 +76,3 @@ New Contact Khadija has been created successfully!
 **Khadija**
 🌐 [GitHub](https://github.com/KhadijaCodes-hub)
 
-
-Would you like me to fix the small logic issue in your code (so **“View”** and **“Search”** show correct details instead of undefined variables)?
-```
