@@ -23,13 +23,13 @@ Clone the repository and navigate to the folder:
 
 ```bash
 git clone https://github.com/KhadijaCodes-hub/contact-book-management.git
-cd contact-book-app
+cd contact-book-management
 ````
 
 Run the app:
 
 ```bash
-python contact_book.py
+python contact_book_app.py
 ```
 
 ---
@@ -65,7 +65,7 @@ New Contact Khadija has been created successfully!
 
 ```
 📦 Contact-Book-App
- ┣ 📜 contact_book.py
+ ┣ 📜 contact_book_app.py
  ┗ 📜 README.md
 ```
 
